@@ -11,10 +11,7 @@ Before running this application, ensure the following tools are installed:
 - **Docker** and **python**
 - **Node.js** and **Vue CLI**
 
-Install Vue CLI :
-
-```bash
-npm install -g @vue/cli
+Install -g @vue/cli
 ```
 ## How to Run the Application (with Docker)
 
